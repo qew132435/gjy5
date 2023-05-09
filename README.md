@@ -1,1 +1,7 @@
-# gjy5
+# gjy5GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
+
